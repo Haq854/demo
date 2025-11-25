@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SDA Pin=J1-2
+Removed Pin From Net: NetName=SCL Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Change Component Footprint: Designator=J1 Old Footprint=53261-0471 New Footprint=53261-0671
+Change Component Comment : Designator=J1 Old Comment=53261-0471 New Comment=53261-0671
+Added Pin To Net: NetName=SCL Pin=J1-2
+Added Pin To Net: NetName=SDA Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=STDBY Pin=B1-13
+Added Pin To Net: NetName=STDBY Pin=J1-5
+Added Net: Name=STDBY
+Added Pin To Net: NetName=WAKEUP Pin=B1-3
+Added Pin To Net: NetName=WAKEUP Pin=J1-4
+Added Net: Name=WAKEUP
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
