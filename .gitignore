@@ -1,0 +1,8 @@
+# Altium data directories
+**/__Previews/
+**/History/
+ 
+# Altium default output directories
+**/Project\ Outputs*/
+**/ProjectOutputs*/
+**/Project\ Logs*/
